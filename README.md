@@ -1,6 +1,8 @@
 # Leetcode_SQL
 Solved SQL questions in Leetcode. I try to come up with different solutions for some questions to test my understanding of SQL.
 
+### [Easy](/Easy) | [Medium](/Medium) | [Hard](/Hard)  |
+
 | Difficulty | Problem | Solution | 
 | :---: | :---: | :--- | 
 | Easy | [Customers Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Link](https://github.com/alsiusyoong/Leetcode_SQL/blob/main/Easy/Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql) |
