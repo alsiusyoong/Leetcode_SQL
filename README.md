@@ -19,3 +19,7 @@ Solved SQL questions in Leetcode. I try to come up with different solutions for 
 | Medium | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [Link](https://github.com/alsiusyoong/Leetcode_SQL/blob/main/Medium/Rank%20Scores.sql) |
 | Medium | [Tree Node](https://leetcode.com/problems/tree-node/) | [Link](https://github.com/alsiusyoong/Leetcode_SQL/blob/main/Medium/Tree%20Node.sql) |
 | Medium | [Winning Candidate](https://leetcode.com/problems/winning-candidate/) | [Link](https://github.com/alsiusyoong/Leetcode_SQL/blob/main/Medium/Winning%20Candidate.sql) |
+| Hard | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | [Link](https://github.com/alsiusyoong/Leetcode_SQL/blob/main/Hard/Department%20Top%20Three%20Salaries.sql) |
+| Hard | [Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/) | [Link](https://github.com/alsiusyoong/Leetcode_SQL/blob/main/Hard/Find%20Cumulative%20Salary%20of%20an%20Employee.sql) |
+| Hard | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [Link](https://github.com/alsiusyoong/Leetcode_SQL/blob/main/Hard/Human%20Traffic%20of%20Stadium.sql) |
+| Hard | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [Link](https://github.com/alsiusyoong/Leetcode_SQL/blob/main/Hard/Trips%20and%20Users.sql) |
