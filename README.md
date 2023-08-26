@@ -4,7 +4,7 @@ Solved SQL questions in Leetcode. I try to come up with different solutions for 
 ### [Easy](/Easy) | [Medium](/Medium) | [Hard](/Hard)  |
 
 | Difficulty | Problem | Solution | 
-| :---: | :---: | :--- | 
+| :--- | :--- | :--- |
 | Easy | [Customers Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [Link](https://github.com/alsiusyoong/Leetcode_SQL/blob/main/Easy/Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql) |
 | Easy | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/) | [Link](https://github.com/alsiusyoong/Leetcode_SQL/blob/main/Easy/Customers%20Who%20Bought%20All%20Products.sql) |
 | Easy | [Customers who never Order](https://leetcode.com/problems/customers-who-never-order/) | [Link](https://github.com/alsiusyoong/Leetcode_SQL/blob/main/Easy/Customers%20who%20never%20Order.sql) |
